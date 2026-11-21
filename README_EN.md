@@ -88,4 +88,6 @@ The single file is deliberate: easy to hand over as an attachment, easy to run o
 
 ## License
 
-Source code is MIT licensed (see `LICENSE`). **Third-party assets embedded in `index.html` — specimen images and the font — are not covered by MIT.** Read `THIRD-PARTY-NOTICES.md` before commercial use.
+Source code is MIT licensed (see `LICENSE`).
+
+© 2026 小空 (Kong) **Third-party assets embedded in `index.html` — specimen images and the font — are not covered by MIT.** Read `THIRD-PARTY-NOTICES.md` before commercial use.

@@ -89,4 +89,6 @@ python3 -m http.server 8080
 
 ## 许可
 
-代码以 MIT 许可发布，详见 `LICENSE`。**注意**：仓库内内联的第三方素材（元素影像、字体）不适用 MIT，商业使用前请阅读 `THIRD-PARTY-NOTICES.md` 并自行确认授权。
+代码以 MIT 许可发布，详见 `LICENSE`。
+
+© 2026 小空**注意**：仓库内内联的第三方素材（元素影像、字体）不适用 MIT，商业使用前请阅读 `THIRD-PARTY-NOTICES.md` 并自行确认授权。
